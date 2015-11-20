@@ -242,7 +242,7 @@
         
         .multFormDivs{
             width: auto;
-            height 100px;
+            height:auto;
         }
 
 
@@ -290,7 +290,6 @@
         /*Override the slider layout*/
         .ui-slider .ui-slider-handle{
            width:7px !important;
-           heigh:1em !important;
            background-size: cover !important;
 	       background-position: center center !important;
            margin-left:-3px !important;

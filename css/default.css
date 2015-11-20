@@ -239,9 +239,9 @@
         }
 
 
-
+        
         .multFormDivs{
-            width: 500px;
+            width: auto;
             height 100px;
         }
 
@@ -260,6 +260,7 @@
             margin-bottom: 20px;
             
         }
+
 
         /*Tab formatting  Remove borders, background image, and set 
         * the background color to black.
@@ -289,7 +290,7 @@
         /*Override the slider layout*/
         .ui-slider .ui-slider-handle{
            width:7px !important;
-           heigh:10px !important;
+           heigh:1em !important;
            background-size: cover !important;
 	       background-position: center center !important;
            margin-left:-3px !important;
